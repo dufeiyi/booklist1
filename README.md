@@ -41,11 +41,11 @@
 ## 项目和代码风格：
 
 * Google 开源项目风格指南：
-    * 中文版：
-        * <https://google-styleguide.readthedocs.io/zh_CN/latest/>
-        * <https://github.com/zh-google-styleguide/zh-google-styleguide>
     * 原版：
         * <https://github.com/google/styleguide>
+    * 中文版（比较老，仅做参考）：
+        * <https://google-styleguide.readthedocs.io/zh_CN/latest/>
+        * <https://github.com/zh-google-styleguide/zh-google-styleguide>
 
 ---------------------------------------------------------------------------------------------------
             
